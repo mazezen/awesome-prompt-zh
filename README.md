@@ -1,6 +1,6 @@
 <div align="center">
 
-# Awesome Prompts ZH 🇨🇳
+# Awesome Prompts ZH
 
 [![Stars](https://img.shields.io/github/stars/mazezen/awesome-prompt-zh?style=social)](https://github.com/mazezen/awesome-prompt-zh)
 [![Forks](https://img.shields.io/github/forks/mazezen/awesome-prompt-zh?style=social)](https://github.com/mazezen/awesome-prompt-zh)
