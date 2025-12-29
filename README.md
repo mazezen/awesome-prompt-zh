@@ -33,7 +33,7 @@ Prompts 按文件夹组织，目前规划以下类别（后续可根据贡献扩
 - **图像生成**：Midjourney、Stable Diffusion、通义万相等中文提示词（`/image`）
 - **角色扮演**：各种有趣角色、游戏化 Prompt（`/roleplay`）
 - **高级技巧**：Chain of Thought、Few-Shot、Tree of Thoughts 等进阶 Prompt（`/advanced`）
-- **其他**：不属于以上类别的优秀 Prompt（`/misc`）
+- **其他**：不属于以上类别的优秀 Prompt, 可放入（`/misc`）.或者自建类别目录
 
 每个类别下用 Markdown 文件或 JSON 格式存储，例如：
 
